@@ -39,7 +39,7 @@
             <div class="breadcrumb">
                 <span>
                     <span>
-                        <a href="index.php">Trang chủ</a>
+                        <a href="home.php">Trang chủ</a>
                     </span>
                     »
                     <span class="breadcrumb_last"><?php echo $row_title['ten_danhmuc'] ?></span>
